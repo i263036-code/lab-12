@@ -1,1 +1,8 @@
 # i263036 (muhammad zain)
+
+
+name : Muhammad zain
+roll num: i263036
+section : A
+repo link: https://github.com/i263036-code/lab-12/tree/main
+website link: https://i263036-code.github.io/lab-12
